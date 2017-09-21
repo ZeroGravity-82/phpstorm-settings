@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="rar" type="Native" />
+      <mapping pattern="SearchEngineInterface" type="PHP" />
     </extensionMap>
   </component>
 </application>
