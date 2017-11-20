@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="rar" type="Native" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
