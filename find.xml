@@ -6,6 +6,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,7 +18,6 @@
       <mask>*</mask>
       <mask>*.pj</mask>
       <mask>*.pjs</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
@@ -34,6 +34,7 @@
       <mask>*.t</mask>
       <mask>*.tw</mask>
       <mask>*.twig</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
