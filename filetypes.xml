@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="5a2e6edb547ee" type="Native" />
+      <mapping pattern="5a3210d1227e0" type="Native" />
+      <mapping pattern="5a320ce4d7f1d" type="Native" />
+      <mapping pattern="Requirement" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
