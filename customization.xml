@@ -21,5 +21,12 @@
       <path value="VcsNavBarToobarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Git.Merge" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
   </component>
 </application>
