@@ -14,7 +14,6 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.yml</mask>
@@ -24,6 +23,7 @@
       <mask>*.y</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
