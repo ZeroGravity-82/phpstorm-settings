@@ -6,6 +6,7 @@
       <mapping pattern="5a320ce4d7f1d" type="Native" />
       <mapping pattern="Requirement" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
