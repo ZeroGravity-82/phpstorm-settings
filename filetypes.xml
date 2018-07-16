@@ -4,6 +4,7 @@
       <mapping pattern="eghrth" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Dockefile" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
