@@ -2,6 +2,7 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="https://schema.org/GeoCoordinates" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/7eb9a13_GeoCoordinates.html" />
     <resource url="https://schema.org/ImageGallery" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/989883e0_ImageGallery.html" />
+    <resource url="https://schema.org/ImageObject" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/f9d9ccf1_ImageObject.html" />
     <resource url="https://schema.org/Organization" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/c6e8379c_Organization.html" />
     <resource url="https://schema.org/Place" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/b2f082be_Place.html" />
     <resource url="https://schema.org/PostalAddress" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/f6e04f60_PostalAddress.html" />
