@@ -7,5 +7,6 @@
     <resource url="https://schema.org/Place" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/b2f082be_Place.html" />
     <resource url="https://schema.org/PostalAddress" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/f6e04f60_PostalAddress.html" />
     <resource url="https://schema.org/WebSite" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/1f3b6cb2_WebSite.html" />
+    <ignored-resource url="//schema.org/WebSite" />
   </component>
 </application>
