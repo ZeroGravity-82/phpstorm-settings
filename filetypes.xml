@@ -5,6 +5,7 @@
       <mapping pattern="cron_test" type="PHP" />
       <mapping pattern="eghrth" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.dev" type="PLAIN_TEXT" />
+      <mapping pattern="xscores-cron" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Dockefile" type="PLAIN_TEXT" />
       <mapping pattern="cron_reports" type="PLAIN_TEXT" />
