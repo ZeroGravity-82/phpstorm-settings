@@ -4,6 +4,9 @@
       <entry key="CommitDialog">
         <PlaceSettings />
       </entry>
+      <entry key="VcsLogView">
+        <PlaceSettings />
+      </entry>
     </option>
   </component>
 </application>
