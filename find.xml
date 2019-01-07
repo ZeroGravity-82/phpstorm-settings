@@ -22,10 +22,10 @@
     <mask>*command*.php</mask>
     <mask>*ScraperCommand*.php</mask>
     <mask>*Product.php</mask>
+    <mask>*.css</mask>
     <mask>*.rst</mask>
     <mask>*.twig</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
-    <mask>*.css</mask>
   </component>
 </application>
