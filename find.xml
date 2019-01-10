@@ -2,11 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html.twig" />
     <mask>*.properties</mask>
-    <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
@@ -19,7 +17,6 @@
     <mask>*scraper*.php</mask>
     <mask>*scr*.php</mask>
     <mask>*.php.twig</mask>
-    <mask>*.html.twig</mask>
     <mask>*load*.php</mask>
     <mask>*command*.php</mask>
     <mask>*ScraperCommand*.php</mask>
@@ -29,5 +26,7 @@
     <mask>*.twig</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.html</mask>
+    <mask>*.html.twig</mask>
   </component>
 </application>
