@@ -24,8 +24,8 @@
     <mask>*.html</mask>
     <mask>*.yml</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*.html.twig</mask>
+    <mask>*.js</mask>
     <mask>*.php</mask>
   </component>
 </application>
