@@ -22,10 +22,11 @@
     <mask>*.rst</mask>
     <mask>*.twig</mask>
     <mask>*.html</mask>
-    <mask>*.yml</mask>
     <mask>*.css</mask>
-    <mask>*.html.twig</mask>
     <mask>*.js</mask>
+    <mask>*.yml</mask>
+    <mask>*.html.twig</mask>
+    <mask>*.*html</mask>
     <mask>*.php</mask>
   </component>
 </application>
