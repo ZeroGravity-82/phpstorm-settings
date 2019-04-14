@@ -6,6 +6,7 @@
       <mapping ext="demo" type="PHP" />
       <mapping pattern="f" type="PLAIN_TEXT" />
       <mapping pattern="eghrth" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.dev" type="PLAIN_TEXT" />
       <mapping pattern="xscores-cron" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
