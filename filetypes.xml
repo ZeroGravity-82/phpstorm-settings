@@ -11,6 +11,7 @@
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Dockefile" type="PLAIN_TEXT" />
+      <mapping pattern="develop" type="PLAIN_TEXT" />
       <mapping pattern="cron_reports" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
