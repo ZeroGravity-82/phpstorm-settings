@@ -3,7 +3,7 @@
     <property name="created">2019-04-15T20:41:01</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-15T21:22:05</property>
+    <property name="modified">2019-04-15T21:33:12</property>
     <property name="originalScheme">Solarized Light</property>
   </metaInfo>
   <colors>
@@ -734,6 +734,11 @@
       <value>
         <option name="EFFECT_COLOR" value="586e75" />
         <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="DOCKER_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="859900" />
       </value>
     </option>
     <option name="DOC_COMMENT_TAG_VALUE">
@@ -2115,34 +2120,37 @@
         <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
+    <option name="YAML_ANCHOR">
+      <value />
+    </option>
     <option name="YAML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="YAML_SCALAR_DSTRING">
       <value>
-        <option name="FOREGROUND" value="859900" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="YAML_SCALAR_KEY">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="YAML_SCALAR_LIST">
-      <value>
-        <option name="BACKGROUND" value="eee8d5" />
-      </value>
+      <value />
     </option>
     <option name="YAML_SCALAR_STRING">
       <value>
-        <option name="FOREGROUND" value="2aa198" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="YAML_SIGN">
+      <value />
+    </option>
+    <option name="YAML_TEXT">
+      <value />
     </option>
   </attributes>
 </scheme>
