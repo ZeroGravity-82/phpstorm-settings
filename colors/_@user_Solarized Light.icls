@@ -3,7 +3,7 @@
     <property name="created">2019-04-15T20:41:01</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-15T21:33:12</property>
+    <property name="modified">2019-04-15T21:50:00</property>
     <property name="originalScheme">Solarized Light</property>
   </metaInfo>
   <colors>
@@ -736,10 +736,34 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
-    <option name="DOCKER_KEYWORD">
+    <option name="DOCKER_BRACKETS">
+      <value />
+    </option>
+    <option name="DOCKER_COMMA">
+      <value />
+    </option>
+    <option name="DOCKER_COMMENTS">
       <value>
-        <option name="FOREGROUND" value="859900" />
+        <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="DOCKER_DOT">
+      <value />
+    </option>
+    <option name="DOCKER_KEYWORD">
+      <value />
+    </option>
+    <option name="DOCKER_NUMBER">
+      <value />
+    </option>
+    <option name="DOCKER_PARENTH">
+      <value />
+    </option>
+    <option name="DOCKER_STRING">
+      <value />
+    </option>
+    <option name="DOCKER_VARIABLE">
+      <value />
     </option>
     <option name="DOC_COMMENT_TAG_VALUE">
       <value>
