@@ -3,7 +3,7 @@
     <property name="created">2019-04-15T20:41:01</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-15T21:50:00</property>
+    <property name="modified">2019-04-15T22:20:58</property>
     <property name="originalScheme">Solarized Light</property>
   </metaInfo>
   <colors>
@@ -1101,6 +1101,25 @@
         <option name="ERROR_STRIPE_COLOR" value="b58900" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
+    </option>
+    <option name="INI.COMMENT">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="INI.EQUALS">
+      <value />
+    </option>
+    <option name="INI.KEY">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INI.SECTION">
+      <value />
+    </option>
+    <option name="INI.VALUE">
+      <value />
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
