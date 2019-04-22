@@ -14,6 +14,7 @@
       <mapping pattern=".htaccess.dev" type="PLAIN_TEXT" />
       <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping pattern="xscores-cron" type="PLAIN_TEXT" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Dockefile" type="PLAIN_TEXT" />
