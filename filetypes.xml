@@ -10,11 +10,8 @@
       <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping pattern="eghrth" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.dev" type="PLAIN_TEXT" />
-      <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping pattern="xscores-cron" type="PLAIN_TEXT" />
-      <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Dockefile" type="PLAIN_TEXT" />
@@ -23,9 +20,7 @@
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="tiwh" type="PLAIN_TEXT" />
-      <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
     </extensionMap>
