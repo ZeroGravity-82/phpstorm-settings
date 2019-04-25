@@ -94,12 +94,14 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_includestest.ccdc02.com_cardinalcruise_v1_songbird.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_songbird.cardinalcommerce.com_edge_v1_songbird.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_songbirdstag.cardinalcommerce.com_edge_v1_songbird.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_utilsbox.cardinalcommerce.com_cardinalcruise_v1_songbird.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_includestest.ccdc02.com_cardinalcruise_v1_songbird.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_songbird.cardinalcommerce.com_edge_v1_songbird.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_songbirdstag.cardinalcommerce.com_edge_v1_songbird.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_utilsbox.cardinalcommerce.com_cardinalcruise_v1_songbird.js" />
       </CLASSES>
