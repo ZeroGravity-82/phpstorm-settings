@@ -19,6 +19,7 @@
       <mapping pattern="develop" type="PLAIN_TEXT" />
       <mapping pattern="cron_reports" type="PLAIN_TEXT" />
       <mapping pattern="Dockefile" type="PLAIN_TEXT" />
+      <mapping pattern="sk_encar" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="tiwh" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
