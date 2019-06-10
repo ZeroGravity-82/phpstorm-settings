@@ -21,7 +21,6 @@
     <mask>*.twig</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*.html.twig</mask>
     <mask>*.*html</mask>
     <mask>*</mask>
@@ -30,5 +29,6 @@
     <mask>*.json</mask>
     <mask>*.*</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
