@@ -1,9 +1,4 @@
 <application>
-  <component name="GithubAccounts">
-    <account id="acccd7e1-4198-4349-a82d-e0b6aa9cb20e" name="SublimeRaiser">
-      <server host="github.com" />
-    </account>
-  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="ZeroGravity-82" />
     <option name="AUTH_TYPE" value="BASIC" />
