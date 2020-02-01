@@ -25,7 +25,9 @@
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
       <entry key="CommitDialog">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="USE_SOFT_WRAPS" value="true" />
+        </PlaceSettings>
       </entry>
       <entry key="Default">
         <PlaceSettings>
