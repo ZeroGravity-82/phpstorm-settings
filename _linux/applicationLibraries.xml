@@ -40,6 +40,7 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.1.1.js" />
       </CLASSES>
       <DOCUMENTATION>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.jquery.com_resources_api.xml.xml" />
         <root url="http://api.jquery.com" />
       </DOCUMENTATION>
       <SOURCES />
