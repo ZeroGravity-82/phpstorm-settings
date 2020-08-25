@@ -108,6 +108,21 @@
       </DOCUMENTATION>
       <SOURCES />
     </library>
+    <library name="jquery-resizable" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__rawgit.com_RickStrahl_jquery-resizable_master_src_jquery-resizable.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__rawgit.com_RickStrahl_jquery-resizable_master_src_jquery-resizable.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
     <library name="lg-video" type="javaScript">
       <properties>
         <sourceFilesUrls>
