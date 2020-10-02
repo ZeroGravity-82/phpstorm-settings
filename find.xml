@@ -23,12 +23,12 @@
     <mask>*</mask>
     <mask>*.json</mask>
     <mask>*.*</mask>
-    <mask>*.html.twig</mask>
     <mask>*.yml</mask>
     <mask>*.css</mask>
     <mask>*.twig</mask>
     <mask>*.rst</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.html.twig</mask>
   </component>
 </application>
