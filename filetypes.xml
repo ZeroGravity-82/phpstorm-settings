@@ -38,6 +38,7 @@
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="tiwh" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="model" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
