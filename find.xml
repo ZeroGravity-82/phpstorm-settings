@@ -27,8 +27,8 @@
     <mask>*.twig</mask>
     <mask>*.rst</mask>
     <mask>*.css</mask>
+    <mask>*.html.twig</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
-    <mask>*.html.twig</mask>
   </component>
 </application>
