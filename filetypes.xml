@@ -4,6 +4,7 @@
       <mapping pattern="cron_test" type="PHP" />
       <mapping pattern="cron_daily_digest" type="PHP" />
       <mapping ext="demo" type="PHP" />
+      <mapping pattern="&lt;?php" type="PLAIN_TEXT" />
       <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping pattern="deploy" type="PLAIN_TEXT" />
       <mapping pattern="Dockefile" type="PLAIN_TEXT" />
