@@ -1,45 +1,47 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="cron_test" type="PHP" />
       <mapping pattern="cron_daily_digest" type="PHP" />
       <mapping ext="demo" type="PHP" />
-      <mapping pattern="111" type="PLAIN_TEXT" />
-      <mapping pattern="deploy" type="PLAIN_TEXT" />
-      <mapping pattern="Dockefile" type="PLAIN_TEXT" />
-      <mapping pattern=".phpversion" type="PLAIN_TEXT" />
-      <mapping pattern=".php-version" type="PLAIN_TEXT" />
-      <mapping pattern="8888" type="PLAIN_TEXT" />
-      <mapping pattern="install_composer" type="PLAIN_TEXT" />
-      <mapping pattern="eghrth" type="PLAIN_TEXT" />
-      <mapping pattern="sk_encar" type="PLAIN_TEXT" />
-      <mapping pattern="f" type="PLAIN_TEXT" />
-      <mapping pattern="develop" type="PLAIN_TEXT" />
-      <mapping pattern="build" type="PLAIN_TEXT" />
-      <mapping pattern="cron_reports" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
-      <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="&lt;?php" type="PLAIN_TEXT" />
       <mapping pattern="xscores-cron" type="PLAIN_TEXT" />
-      <mapping pattern="888" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="dsfdsf" type="PLAIN_TEXT" />
-      <mapping pattern=".htaccess.dev" type="PLAIN_TEXT" />
-      <mapping pattern="123" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern=".phpversion" type="PLAIN_TEXT" />
+      <mapping pattern="8888" type="PLAIN_TEXT" />
       <mapping pattern="rrr" type="PLAIN_TEXT" />
+      <mapping pattern="111" type="PLAIN_TEXT" />
+      <mapping pattern="dsfdsf" type="PLAIN_TEXT" />
+      <mapping pattern="install_composer" type="PLAIN_TEXT" />
+      <mapping pattern="cron_reports" type="PLAIN_TEXT" />
+      <mapping pattern="f" type="PLAIN_TEXT" />
+      <mapping pattern=".php-version" type="PLAIN_TEXT" />
+      <mapping pattern="888" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.dev" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="Dockefile" type="PLAIN_TEXT" />
+      <mapping pattern="sk_encar" type="PLAIN_TEXT" />
+      <mapping pattern="deploy" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
-      <mapping ext="csd" type="PLAIN_TEXT" />
-      <mapping ext="dev" type="PLAIN_TEXT" />
-      <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping pattern="123" type="PLAIN_TEXT" />
+      <mapping pattern="eghrth" type="PLAIN_TEXT" />
+      <mapping pattern="develop" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping ext="docker" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
-      <mapping ext="phpml" type="PLAIN_TEXT" />
+      <mapping ext="csd" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
-      <mapping ext="tiwh" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="phpml" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="model" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="tiwh" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
 </application>
