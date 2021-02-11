@@ -7,14 +7,17 @@
       <mapping pattern="&lt;?php" type="PLAIN_TEXT" />
       <mapping pattern="111" type="PLAIN_TEXT" />
       <mapping pattern="deploy" type="PLAIN_TEXT" />
+      <mapping pattern="vectorizer" type="PLAIN_TEXT" />
       <mapping pattern="Dockefile" type="PLAIN_TEXT" />
       <mapping pattern=".phpversion" type="PLAIN_TEXT" />
       <mapping pattern=".php-version" type="PLAIN_TEXT" />
       <mapping pattern="8888" type="PLAIN_TEXT" />
+      <mapping pattern="model" type="PLAIN_TEXT" />
       <mapping pattern="install_composer" type="PLAIN_TEXT" />
       <mapping pattern="eghrth" type="PLAIN_TEXT" />
       <mapping pattern="sk_encar" type="PLAIN_TEXT" />
       <mapping pattern="f" type="PLAIN_TEXT" />
+      <mapping pattern="transformer" type="PLAIN_TEXT" />
       <mapping pattern="develop" type="PLAIN_TEXT" />
       <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping pattern="cron_reports" type="PLAIN_TEXT" />
