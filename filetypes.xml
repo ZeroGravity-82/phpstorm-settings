@@ -11,6 +11,7 @@
       <mapping pattern="Dockefile" type="PLAIN_TEXT" />
       <mapping pattern=".phpversion" type="PLAIN_TEXT" />
       <mapping pattern=".php-version" type="PLAIN_TEXT" />
+      <mapping pattern="pipeline" type="PLAIN_TEXT" />
       <mapping pattern="8888" type="PLAIN_TEXT" />
       <mapping pattern="model" type="PLAIN_TEXT" />
       <mapping pattern="install_composer" type="PLAIN_TEXT" />
