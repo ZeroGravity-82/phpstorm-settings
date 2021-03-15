@@ -24,11 +24,11 @@
     <mask>*.json</mask>
     <mask>*.*</mask>
     <mask>*.yml</mask>
-    <mask>*.twig</mask>
     <mask>*.rst</mask>
-    <mask>*.css</mask>
     <mask>*.html.twig</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.twig</mask>
+    <mask>*.css</mask>
   </component>
 </application>
