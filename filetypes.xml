@@ -26,8 +26,8 @@
       <mapping pattern="Dockefile" type="PLAIN_TEXT" />
       <mapping pattern="sk_encar" type="PLAIN_TEXT" />
       <mapping pattern="deploy" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="eghrth" type="PLAIN_TEXT" />
       <mapping pattern="develop" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
