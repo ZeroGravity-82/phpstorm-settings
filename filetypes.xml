@@ -39,8 +39,8 @@
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="pyc" type="PLAIN_TEXT" />
-      <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="phpml" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
